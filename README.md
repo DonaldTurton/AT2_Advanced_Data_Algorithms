@@ -15,3 +15,5 @@ The files under this repo can used to replicate the models where. A dictionary o
 4. AT2_GetData.ipynb: Random Forest models. Baseline, Random Grid and Grid Search
 
 5. XGB_Model.ipynb: XGB models.  Baseline, Random Grid and Grid Search
+
+6. Report: Methodology and Analysis of results 
